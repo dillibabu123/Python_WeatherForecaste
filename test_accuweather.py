@@ -26,7 +26,7 @@ receiver_email = "dillibabu.aragonda@Dell.com"  # Enter receiver address
 password = "qmevstitvzxdmwli"
 
 message = """\
-Subject: Bangalore Weather forecast from Dilli code
+Subject: Bangalore Weather forecast from Dilli Python code
 To: dillibabu.aragonda@Dell.com
 
 Bengaluru, Karnataka Weather forecast from Accuweather.com. This mail is sent from Python code.\n
