@@ -39,7 +39,7 @@ Air Quality: """ + airQuality + """\n
 Wind Gusts: """ + windGuests + """
 
 Thanks,
-Dilli Babu A
+Dilli Babu
 """
 
 context = ssl.create_default_context()
